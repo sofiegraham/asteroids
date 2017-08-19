@@ -1,0 +1,25 @@
+{
+  "name": "asteroids",
+  "version": "1.0.0",
+  "description": "Asteroids game",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiegraham/asteroids.git"
+  },
+  "author": "Sofie Graham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiegraham/asteroids/issues"
+  },
+  "homepage": "https://github.com/sofiegraham/asteroids#readme",
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
+}
